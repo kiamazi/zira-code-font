@@ -8,3 +8,18 @@
 ![chracters](chars.png)
 
 ![ligatures](ligatures.png)
+
+***
+
+### install
+
+#### GNU/Linux
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir-code font.
+
+```
+kateb install ziracode
+or
+kateb update ziracode
+```
+
+
