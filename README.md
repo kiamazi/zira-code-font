@@ -5,12 +5,6 @@
 
 ***
 
-![chracters](chars.png)
-
-![ligatures](ligatures.png)
-
-***
-
 ### install
 
 #### GNU/Linux
@@ -22,4 +16,9 @@ or
 kateb update ziracode
 ```
 
+***
+
+![chracters](chars.png)
+
+![ligatures](ligatures.png)
 
