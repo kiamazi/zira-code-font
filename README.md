@@ -8,7 +8,7 @@
 ### install
 
 #### GNU/Linux
-gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir-code font.
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install ZiraCode font.
 
 ```
 kateb install ziracode
